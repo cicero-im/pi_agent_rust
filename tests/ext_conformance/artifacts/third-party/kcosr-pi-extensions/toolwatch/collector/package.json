@@ -13,7 +13,7 @@
     "@pi-extensions/toolwatch-common": "file:../common",
     "@types/ws": "^8.18.1",
     "better-sqlite3": "^11.7.0",
-    "ws": "^8.19.0"
+    "ws": "^8.20.1"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.12",
