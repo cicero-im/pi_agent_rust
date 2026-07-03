@@ -1,6 +1,6 @@
 module github.com/vaayne/mcphub
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/dop251/goja v0.0.0-20251121114222-56b1242a5f86
@@ -19,8 +19,8 @@ require (
 	github.com/google/pprof v0.0.0-20240727154555-813a5fbdbec8 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
-	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
-	golang.org/x/text v0.28.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
