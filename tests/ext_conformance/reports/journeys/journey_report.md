@@ -1,6 +1,6 @@
 # End-User CLI Extension Journey Report
 
-> Generated: 2026-05-01T04:07:47Z
+> Generated: 2026-09-07T13:21:00Z
 
 ## Summary
 
