@@ -1,8 +1,8 @@
 {
   "schema": "pi.ext.must_pass_gate.v1",
-  "generated_at": "2026-05-01T03:20:54.460Z",
-  "run_id": "local-20260501T0316",
-  "correlation_id": "local-20260501T0316",
+  "generated_at": "2026-09-14T13:40:49.923Z",
+  "run_id": "34850184012",
+  "correlation_id": "weekly-34850184012",
   "mode": "strict",
   "status": "pass",
   "thresholds": {
